@@ -99,7 +99,7 @@ function Ama() {
                                     href="tel:+919600253972"
                                     className="flex flex-row justify-center items-center gap-2"
                                 >
-                                    <h2 className="text-1xl">Click to call</h2>
+                                    <h2 className="text-1xl">Click to call directly</h2>
                                     <span className="connect-icon text-2xl">☎</span>
                                 </a>
                             </div>

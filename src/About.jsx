@@ -99,24 +99,12 @@ function About() {
                                     Meet Sasivarman: Website developer and CSE Student.
                                 </h2>
                                 <p className="text-xl leading-2 p-2">
-                                    Sasivarman S is a passionate Computer Science and Engineering
-                                    undergraduate at Meenakshi Sundararajan Engineering College,
-                                    Chennai, with a strong interest in AI, MERN stack development, and
-                                    emerging technologies. As an aspiring software developer, he is
-                                    building a solid foundation in Python, HTML, CSS, JavaScript, Git,
-                                    GitHub, and Data Structures while continuously improving his
-                                    problem-solving and analytical skills. He has developed practical
-                                    projects such as an AI-Based Student Academic Recognition System and
-                                    a Digi Logbook System using Python and file handling concepts,
-                                    demonstrating his ability to create real-world solutions. Along with
-                                    technical expertise, he possesses strong communication, leadership,
-                                    teamwork, and critical thinking skills. His academic achievements,
-                                    including an 8.20 GPA in his first semester and 8.97 GPAin 2nd
-                                    semester, school-level first rank, Best Student Award, and
-                                    participation in technical symposiums, reflect his dedication to
-                                    continuous learning, innovation, and professional growth as he
-                                    prepares for internship opportunities in software development and
-                                    artificial intelligence.
+                                    I'm Sasivarman S, a second-year Computer Science and Engineering student at Meenakshi Sundararajan Engineering College, Chennai, with a strong interest in frontend development, AI-powered tools, and modern web technologies.
+                                    I enjoy turning ideas into functional, responsive, and visually engaging web experiences. Using HTML, CSS, JavaScript, React, and Tailwind CSS, I've built projects including business landing pages, a mark calculator, an ERP simulator, a book catalogue, a tourism website, and a food store website.
+                                    I also explore AI-powered development tools like Claude, Google Stitch, and Antigravity to accelerate prototyping, explore design ideas, and streamline my development workflow. I believe in combining AI assistance with hands-on coding, problem-solving, and understanding the solutions I build.
+                                    As a frontend developer ready to pursue internship opportunities, I'm eager to contribute to real-world projects, collaborate with development teams, and continue growing through practical experience. Alongside frontend development, I'm learning Java and expanding my software development knowledge as I work toward becoming a Java Full-Stack Developer.
+                                    Beyond coding, I value continuous learning, teamwork, and building solutions that solve practical problems. My academic achievements, including a CGPA of 8.20 in my first semester and 8.97 in my second semester, reflect my commitment to learning and consistent improvement.
+                                    I'm always open to meaningful collaborations, exciting project ideas, and opportunities to grow as a developer.
                                 </p>
                             </div>
                         </div>
