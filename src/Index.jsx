@@ -35,7 +35,7 @@ function Index() {
                     <div className="max-w-[100%]">
                         <div className="w-[80%] md:w-[60%] mx-auto grid grid-cols-1">
                             <div className="focus-in-contract">
-                                <h1 className="text-5xl leading-1 p-1">
+                                <h1 className="text-3xl leading-1 p-1">
                                     Hi, I'm Sasivarman — a 2nd-year Computer Science Engineering student, Frontend Developer, and aspiring Java Full-Stack Developer, ready for frontend development internships. I build modern, responsive websites and interactive web applications using HTML, CSS, JavaScript, React, and Tailwind CSS.
                                     I leverage AI-powered tools like Claude, Google Stitch, and Antigravity to accelerate development, explore creative ideas, prototype interfaces faster, and improve my workflow. From business landing pages and mark calculators to ERP simulators, book catalogues, tourism platforms, and food store websites, I enjoy transforming ideas into functional digital experiences.
                                     I'm passionate about rapid development, continuous learning, problem-solving, and team collaboration. Currently, I'm strengthening my Java and backend development skills to grow into a Java Full-Stack Developer.
