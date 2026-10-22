@@ -19,7 +19,7 @@ function Resume() {
                     <div className="max-w-[100%]">
                         <div className="w-[80%] md:w-[60%] mx-auto py-5 grid grid-cols-1">
                             <div className="flex flex-row justify-between items-center">
-                                <div className="space-y-2">
+                                <div className="space-y-2 tracking-in-expand">
                                     <h2 className="text-5xl">My portfolio</h2>
                                     <p className="text-4xl">Sasivarman</p>
                                 </div>

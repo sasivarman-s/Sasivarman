@@ -22,7 +22,7 @@ function Index() {
                                     <h2 className="text-5xl">My portfolio</h2>
                                     <p className="text-4xl">Sasivarman</p>
                                     <img
-                                        src="https://ik.imagekit.io/kzpbayifg/SV-golden.png"
+                                        src="https://ik.imagekit.io/kzpbayifg/SV%20insta%20pfp.jpg?updatedAt=1786085059712"
                                         className="image flex justify-center items-center w-[350px] border rounded-full p-1"
                                     />
                                 </div>
