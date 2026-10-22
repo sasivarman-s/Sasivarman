@@ -88,7 +88,7 @@ function Projects() {
                                 </Link>
                             </li>
                             <li>
-                                <Link className="block rounded-full px-1 py-2" to="/ama">
+                                <Link className="block rounded-full px-1 py-2" to="https://sv-portfolio-html.vercel.app/pages/ama.html">
                                     Contact
                                 </Link>
                             </li>

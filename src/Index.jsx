@@ -151,7 +151,7 @@ function Index() {
                             </div>
                             <div className="group">
                                 <Link
-                                    to="/ama"
+                                    to="https://sv-portfolio-html.vercel.app/pages/ama.html"
                                     className="flex flex-row justify-between items-center text-2xl group-hover:translate-y-2"
                                 >
                                     Contact
