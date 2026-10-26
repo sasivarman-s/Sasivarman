@@ -22,11 +22,6 @@ function Projects() {
                                 <div className="space-y-2 tracking-in-expand">
                                     <h2 className="text-5xl">My portfolio</h2>
                                     <p className="text-4xl">Sasivarman</p>
-                                    <p>
-                                        <mark>
-                                            All my Website projects are here.Link given from My Github page!
-                                        </mark>
-                                    </p>
                                 </div>
                                 <div>
                                     <svg
@@ -438,7 +433,7 @@ function Projects() {
                                 <div className="flex flex-col items-center justify-center gap-2">
                                     <img src={Javaimageblue} alt="Javaimageblue" className="w-[300px] h-[230px]" />
                                     <p className="w-[300px]">
-                                        I'm currently learning Java for Backend Engineering and also for the development of the web applications.
+                                        I'm currently learning Java  for Backend Engineering and also for the development of the web applications.
                                     </p>
                                 </div>
                                 <div className="flex flex-row justify-between gap-5 items-center">
