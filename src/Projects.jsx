@@ -8,6 +8,7 @@ import Tools from './Tools';
 import Ama from './Ama';
 import Resume from './Resume';
 import { Link } from "react-router-dom";
+import Javaimageblue from '../assets/WEB/Javaimageblue';
 
 function Projects() {
     return (
@@ -429,6 +430,32 @@ function Projects() {
                                             target="_blank"
                                         >
                                             Go to Github repository
+                                        </a>
+                                    </button>
+                                </div>
+                            </div>
+                            <div className=" flex flex-col justify-center items-center space-y-2">
+                                <div className="flex flex-col items-center justify-center gap-2">
+                                    <img src={Javaimageblue} alt="Javaimageblue" className="w-[300px] h-[230px]" />
+                                    <p className="w-[300px]">
+                                        I'm currently learning Java for Backend Engineering and also for the development of the web applications.
+                                    </p>
+                                </div>
+                                <div className="flex flex-row justify-between gap-5 items-center">
+                                    {/* <button className="bg-green-500 text-white rounded-lg p-2">
+                                        <a
+                                            href=" https://sasivarman-s.github.io/SV-Portfolio/"
+                                            target="_blank"
+                                        >
+                                            Go to Live site
+                                        </a>
+                                    </button> */}
+                                    <button className="bg-black text-white rounded-lg p-2">
+                                        <a
+                                            href="https://github.com/sasivarman-s/Java_oops.git"
+                                            target="_blank"
+                                        >
+                                            Go to Java learning Github repository
                                         </a>
                                     </button>
                                 </div>

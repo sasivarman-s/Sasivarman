@@ -79,7 +79,7 @@ function Index() {
                                     className="flex flex-row justify-between items-center text-2xl group-hover:translate-y-2"
                                 >
                                     {" "}
-                                    Web Projects
+                                    Projects/Works
                                     <div>
                                         <svg
                                             className="group-hover:-translate-y-5"
