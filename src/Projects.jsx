@@ -515,7 +515,6 @@ function Projects() {
                     </div>
                 </section>
             </>
-
         </>
     )
 }
