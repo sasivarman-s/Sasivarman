@@ -9,7 +9,6 @@ import Tools from './Tools';
 import Ama from './Ama';
 import { Link } from "react-router-dom";
 
-
 function Resume() {
     return (
         <>
